@@ -2,6 +2,6 @@
   "appStatus": "ON",
   "voiceType": "normal",
   "pitch": 1.2,
-  "echo": false,
+  "echo": TRUE,
   "background": "bg1.jpg"
 }
