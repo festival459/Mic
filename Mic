@@ -1,7 +1,7 @@
 {
   "appStatus": "ON",
-  "voiceType": "robot",
+  "voiceType": "normal",
   "pitch": 1.2,
-  "echo": true,
+  "echo": false,
   "background": "bg1.jpg"
 }
