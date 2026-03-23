@@ -1,8 +1,18 @@
 {
   "appStatus": "ON",
-  "premiumUsers": "SGR-9607, SAGAR99",
+  "premiumUsers": "ABC123XY, SAGAR99",
   "paymentLink": "https://t.me/Nightworrormic_bot",
   "voiceType": "normal",
   "pitch": 1.0,
+  "echo": false,
+  "background": "bg.jpg"
+},
+{
+  "appStatus": "ON",
+  "premiumUsers": "ABC123XY, SAGAR99,",
+  "paymentLink": "https://t.me/Nightworrormic_bot",
+  "voiceType": "normal",
+  "pitch": 1.0,
+  "echo": false,
   "background": "bg.jpg"
 }
