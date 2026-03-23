@@ -1,7 +1,8 @@
 {
   "appStatus": "ON",
+  "premiumUsers": "ABC123XY, SAGAR99",
+  "paymentLink": "https://t.me/Nightworrormic_bot",
   "voiceType": "normal",
-  "pitch": 1.2,
-  "echo": TRUE,
-  "background": "bg1.jpg"
+  "pitch": 1.0,
+  "background": "bg.jpg"
 }
